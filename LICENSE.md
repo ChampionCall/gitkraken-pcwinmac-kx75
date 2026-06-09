@@ -1,4 +1,4 @@
-# 
+# Turbo GitKraken flujo de trabajo para Mac OS | Ligero GitKraken flujo de trabajo para PC Windows. Con documentación API y revisión de código — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
